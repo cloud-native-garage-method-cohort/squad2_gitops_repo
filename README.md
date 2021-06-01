@@ -1,0 +1,1 @@
+# squad2_gitops_repo
